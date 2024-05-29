@@ -19,3 +19,12 @@ Fight:           Pelear
 Interview:       Entrevista
 Distract:        Distraerse
 Shy:             Timido
+Desire:          Deseo
+Trash:           Basura
+Encourage:       Recomendar
+Schedule:        Agendar
+Apologize:       Disculpar
+Forgive:         Perdonar
+Although:        Auque
+Even though:     A pesar de
+Up to date:      Al día.  Keep up to date: Mantenerse al día
